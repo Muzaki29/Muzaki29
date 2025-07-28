@@ -49,7 +49,8 @@ Coming soon:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzaki-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muzaki-abdullah-irsyad-893a98220/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzaki-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muzaki-abdullah-irsyad-893a98220/)
+[![Instagram](https://img.shields.io/badge/Instagram-@muzaki.syahdu-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/muzaki.syahdu](https://www.instagram.com/tuanpriasyahdu/?hl=en))  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-24292e?style=flat&logo=github)](https://github.com/Muzaki29)
 
 ---
