@@ -76,7 +76,7 @@ Coming soon:
 
 
 #### My Github Stats
-[![Muzaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzaki29&show_icons=true&theme=monokai)
+![Muzaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzaki29&show_icons=true&theme=monokai)
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtnbDc2cXFwdnNxYWFwYWg3Nzg0aXk4bmdwb2IwcGpuNnNweG5maCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif" width="120" alt="Pixel Dev">
