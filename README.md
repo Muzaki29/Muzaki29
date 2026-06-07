@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Freshgraduate Informatics Engineering student at **STT Terpadu Nurul Fikri**  
+🎓 Informatics Engineering student at **STT Terpadu Nurul Fikri**  
 🔍 Passionate about Web Development, DevOps, and Quality Assurance  
 💼 Junior IT Support at **PT Onexpert International Indonesia**  
 📚 Former student of **MSIB Batch 5 & 6** programs (Web Dev & Codeless Data Science)  
