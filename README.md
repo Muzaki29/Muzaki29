@@ -19,7 +19,7 @@
 
 <h3><code>muzaki@github ~ $ cat profile.yml</code></h3>
 
-<p><b>Informatics Engineering Graduate · Full-Stack Developer · QA &amp; IT Infrastructure Enthusiast</b></p>
+<p><b>Informatics Engineering Graduate · QA Engineer · IT Support &amp; Web Developer</b></p>
 
 <p>
   Building reliable web applications, improving software quality, and supporting secure IT operations.<br>
@@ -31,7 +31,7 @@
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzaki_Abdullah_Irsyad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaki-abdullah-irsyad-893a98220/)
-[![Instagram](https://img.shields.io/badge/Instagram-tuanpriasyahdu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuanpriasyahdu)
+[![Instagram](https://img.shields.io/badge/Instagram-priasyahdu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priasyahdu/)
 [![Email](https://img.shields.io/badge/Email-abdullahmuzaki2912%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmuzaki2912@gmail.com)
 
 <br><br>
